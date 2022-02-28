@@ -10,7 +10,7 @@
 </a>
 &nbsp;
 &nbsp;
-<a href="About Us.html">
+<a href="https://pt-about-us.herokuapp.com/">
 <button> About Us</button>
 </a>
 &nbsp;
