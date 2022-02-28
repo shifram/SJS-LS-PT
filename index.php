@@ -15,7 +15,7 @@
 </a>
 &nbsp;
 &nbsp;
-<a href="Teacher's Info.html"><button> Teacher's Info</button></a>
+<a href="https://pt-teachers-info.herokuapp.com/"><button> Teacher's Info</button></a>
 </p>
 <br>
 <br>
