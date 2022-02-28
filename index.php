@@ -36,7 +36,7 @@
 <a href="https://pt-math.herokuapp.com/">
 <img src="MATH SUB.gif" width="265" height="165" hspace="10">
 </a>
-<a href="CLE.html">
+<a href="https://pt-cle.herokuapp.com/">
 <img src="CLE SUB.gif" width="265" height="165" hspace="10">
 </a>
 <br>
